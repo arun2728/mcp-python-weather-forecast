@@ -28,8 +28,6 @@ Let's set up a clean space for your project and install the necessary tools.
    ```
    pip install mcp openai
    ```
-   - mcp: The MCP SDK for Python (lets us build servers and clients).
-   - openai: The library to use OpenAI Models.
 
 4. Setup the .env file:
    Create a .env file in your project directory with the following content:
